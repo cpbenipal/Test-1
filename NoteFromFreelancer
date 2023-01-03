@@ -1,0 +1,10 @@
+Simply from visual studio project delete migration folder
+Delete database or migration table
+Run these two command again on PMC
+
+PM> add-migration “initial”
+PM> update-database
+ 
+It will work.
+
+You can contact me at cpbenipal@gmail.com
